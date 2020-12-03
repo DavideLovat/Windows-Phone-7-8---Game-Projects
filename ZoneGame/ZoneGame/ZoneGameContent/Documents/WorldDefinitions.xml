@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Levels>
+  <Level id="0">
+    <worldSize width="2400" height="480"/>
+    <safeAreaRegion>TopLeft</safeAreaRegion>
+    <ambient>Forest</ambient>
+    <engine X="1963" Y="203"/>   
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="1">
+    <worldSize width="5800" height="480"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Forest</ambient>
+    <engine X="363" Y="203"/>
+    <engine X="1163" Y="203"/>
+    <engine X="4563" Y="203"/>
+    <engine X="5363" Y="203"/>    
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="2">
+    <worldSize width="1600" height="3840"/>
+    <safeAreaRegion>Top</safeAreaRegion>
+    <ambient>Forest</ambient>
+    <engine X="363" Y="1643"/>
+    <engine X="363" Y="2603"/>
+    <engine X="1163" Y="2603"/>
+    <engine X="763" Y="3563"/>
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="3">
+    <worldSize width="4600" height="3360"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Forest</ambient>
+    <engine X="1463" Y="203"/>
+    <engine X="4163" Y="683"/>
+    <engine X="4163" Y="1643"/>
+    <engine X="4163" Y="2613"/>
+    <engine X="1463" Y="3083"/>
+    <engine X="363" Y="2603"/>
+    <engine X="363" Y="1643"/>
+    <engine X="363" Y="683"/>
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="4">
+    <worldSize width="4000" height="3360"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Forest</ambient>
+    <engine X="363" Y="1643"/>
+    <engine X="3563" Y="1643"/>
+    <engine X="963" Y="2603"/>
+    <engine X="1363" Y="2603"/>
+    <engine X="3363" Y="2483"/>
+    <engine X="3763" Y="2483"/>
+    <engine X="2603" Y="3563"/>
+    <engine X="3363" Y="2723"/>
+    <engine X="3763" Y="2723"/>    
+    <engine X="1763" Y="83"/>
+    <engine X="1763" Y="323"/>
+    <engine X="2163" Y="83"/>
+    <engine X="2163" Y="323"/>
+    <engine X="1963" Y="203"/>
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  
+  <Level id="5">
+    <worldSize width="4000" height="3360"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Snow</ambient>
+    <engine X="363" Y="1643"/>
+    <engine X="3563" Y="1643"/>
+    <engine X="963" Y="2603"/>
+    <engine X="1363" Y="2603"/>
+    <engine X="3363" Y="2483"/>
+    <engine X="3763" Y="2483"/>
+    <engine X="2603" Y="3563"/>
+    <engine X="3363" Y="2723"/>
+    <engine X="3763" Y="2723"/>
+    <engine X="1763" Y="83"/>
+    <engine X="1763" Y="323"/>
+    <engine X="2163" Y="83"/>
+    <engine X="2163" Y="323"/>
+    <engine X="1963" Y="203"/>
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="6">
+    <worldSize width="3200" height="1920"/>
+    <safeAreaRegion>Bottom</safeAreaRegion>
+    <ambient>Snow</ambient>
+    <engine X="363" Y="443"/>
+    <engine X="363" Y="1403"/>
+    <engine X="563" Y="923"/>
+    <engine X="2763" Y="443"/>
+    <engine X="2763" Y="1403"/>    
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="7">
+    <worldSize width="800" height="3840"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Snow</ambient>
+    <engine X="643" Y="3203"/>
+    <engine X="363" Y="2603"/>
+    <engine X="200" Y="2363"/>
+    <engine X="363" Y="1883"/>
+    <engine X="363" Y="1163"/>
+    <engine X="120" Y="683"/>
+    <engine X="163" Y="203"/>
+    <engine X="363" Y="203"/>
+    <engine X="563" Y="203"/>    
+    <music>gameplayMusic</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="8">
+    <worldSize width="2400" height="2400"/>
+    <safeAreaRegion>Center</safeAreaRegion>
+    <ambient>Steppe</ambient>
+    <engine X="203" Y="203"/>
+    <engine X="363" Y="83"/>
+    <engine X="520" Y="203"/>
+    <engine X="363" Y="360"/>
+    <engine X="1163" Y="203"/>
+    <engine X="1803" Y="203"/>
+    <engine X="1963" Y="83"/>
+    <engine X="2120" Y="203"/>
+    <engine X="1963" Y="360"/>
+    <engine X="203" Y="2123"/>
+    <engine X="363" Y="2003"/>
+    <engine X="520" Y="2123"/>
+    <engine X="363" Y="2280"/>
+    <engine X="1803" Y="2123"/>
+    <engine X="1963" Y="2003"/>
+    <engine X="2120" Y="2123"/>
+    <engine X="1963" Y="2280"/>
+    <engine X="1163" Y="2123"/>
+    <music>gameplayMusic_2</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level>
+  <Level id="9">
+    <worldSize width="5600" height="480"/>
+    <safeAreaRegion>Right</safeAreaRegion>
+    <ambient>Steppe</ambient>
+    <engine X="37" Y="203"/>    
+    <music>gameplayMusic_2</music>
+    <Dialogs id="pilot">
+      <dialog id="intro">
+        <ita></ita>
+        <eng></eng>
+      </dialog>
+    </Dialogs>
+  </Level> 
+</Levels>

@@ -1,0 +1,2 @@
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTimeContent\obj\Windows Phone\Debug\QuizTimeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTimeContent\obj\Windows Phone\Debug\QuizTimeContent.contentprojResolveAssemblyReference.cache

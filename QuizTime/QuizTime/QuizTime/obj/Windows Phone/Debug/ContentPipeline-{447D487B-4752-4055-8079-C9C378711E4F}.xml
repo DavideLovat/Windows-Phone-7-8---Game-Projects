@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\font14px.spritefont</Source>
+      <Name>Fonts\font14px</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font14px.xnb</Output>
+      <Time>2014-04-14T09:15:56.383835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2014-04-14T09:15:56.3994351+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameplayLargeFont.spritefont</Source>
+      <Name>Fonts\GameplayLargeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplayLargeFont.xnb</Output>
+      <Time>2014-04-15T20:50:35.0605153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font16px.spritefont</Source>
+      <Name>Fonts\font16px</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font16px.xnb</Output>
+      <Time>2014-04-16T17:22:57.5247053+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\clockFont.spritefont</Source>
+      <Name>Fonts\clockFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\clockFont.xnb</Output>
+      <Time>2014-04-21T18:57:45.3985492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameplaySmallFont.spritefont</Source>
+      <Name>Fonts\GameplaySmallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplaySmallFont.xnb</Output>
+      <Time>2014-04-25T00:08:12.3106654+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Logos\logoBadMood_White.png</Source>
+      <Name>Textures\Logos\logoBadMood_White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Logos\logoBadMood_White.xnb</Output>
+      <Time>2014-04-14T09:16:56.1231401+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\titleBackground.png</Source>
+      <Name>Textures\Backgrounds\titleBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\titleBackground.xnb</Output>
+      <Time>2014-04-14T12:47:54.4707132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\titleButton_Continue.png</Source>
+      <Name>Textures\Buttons\titleButton_Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Continue.xnb</Output>
+      <Time>2014-04-14T13:11:03.7141734+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\titleButton_Highscore.png</Source>
+      <Name>Textures\Buttons\titleButton_Highscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Highscore.xnb</Output>
+      <Time>2014-04-14T13:11:03.7161735+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\titleButton_Play.png</Source>
+      <Name>Textures\Buttons\titleButton_Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Play.xnb</Output>
+      <Time>2014-04-14T13:11:03.7261741+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\titleButton_Quit.png</Source>
+      <Name>Textures\Buttons\titleButton_Quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Quit.xnb</Output>
+      <Time>2014-04-14T13:11:03.7291743+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\menuTitle.png</Source>
+      <Name>Textures\GameScreens\menuTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\menuTitle.xnb</Output>
+      <Time>2014-04-14T13:11:20.910157+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\highscoreBackground.png</Source>
+      <Name>Textures\Backgrounds\highscoreBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\highscoreBackground.xnb</Output>
+      <Time>2014-04-14T14:35:48.8798426+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2014-04-14T14:59:07.6718489+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\gameplayBackground.png</Source>
+      <Name>Textures\Backgrounds\gameplayBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\gameplayBackground.xnb</Output>
+      <Time>2014-04-15T12:05:04.5512248+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\bottomBar.png</Source>
+      <Name>Textures\Gameplay\bottomBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\bottomBar.xnb</Output>
+      <Time>2014-04-15T14:45:55.4973914+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\buttonMenu.png</Source>
+      <Name>Textures\Buttons\buttonMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonMenu.xnb</Output>
+      <Time>2014-04-16T16:03:31.3870978+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\buttonGameplay.png</Source>
+      <Name>Textures\Buttons\buttonGameplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonGameplay.xnb</Output>
+      <Time>2014-04-17T13:17:53.6667895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\circle.png</Source>
+      <Name>Textures\GameScreens\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\circle.xnb</Output>
+      <Time>2014-04-19T12:59:34.321725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\answerCircleFailure.png</Source>
+      <Name>Textures\Gameplay\answerCircleFailure</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleFailure.xnb</Output>
+      <Time>2014-04-19T16:51:14.7210351+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\answerCircleNeutral.png</Source>
+      <Name>Textures\Gameplay\answerCircleNeutral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleNeutral.xnb</Output>
+      <Time>2014-04-19T16:51:14.7230352+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\answerCircleSuccess.png</Source>
+      <Name>Textures\Gameplay\answerCircleSuccess</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleSuccess.xnb</Output>
+      <Time>2014-04-19T16:51:14.7250353+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\greenLight.png</Source>
+      <Name>Textures\Gameplay\greenLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\greenLight.xnb</Output>
+      <Time>2014-04-19T21:27:24.5497751+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\redLight.png</Source>
+      <Name>Textures\Gameplay\redLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\redLight.xnb</Output>
+      <Time>2014-04-19T21:27:24.5517752+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\left_door.png</Source>
+      <Name>Textures\GameScreens\left_door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\left_door.xnb</Output>
+      <Time>2014-04-20T01:32:28.3382326+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\right_door.png</Source>
+      <Name>Textures\GameScreens\right_door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\right_door.xnb</Output>
+      <Time>2014-04-20T01:32:28.3392326+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\answersBlock.png</Source>
+      <Name>Textures\Gameplay\answersBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answersBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4687374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\grillAnswersBlock.png</Source>
+      <Name>Textures\Gameplay\grillAnswersBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillAnswersBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4747377+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\grillQuestionBlock.png</Source>
+      <Name>Textures\Gameplay\grillQuestionBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillQuestionBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4787379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\innerAnswersBlock.png</Source>
+      <Name>Textures\Gameplay\innerAnswersBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerAnswersBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4827382+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\innerQuestionBlock.png</Source>
+      <Name>Textures\Gameplay\innerQuestionBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerQuestionBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4877384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gameplay\questionBlock.png</Source>
+      <Name>Textures\Gameplay\questionBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\questionBlock.xnb</Output>
+      <Time>2014-04-22T16:49:16.4927387+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameOver.wav</Source>
+      <Name>Sounds\gameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameOver.xnb</Output>
+      <Time>2014-04-21T11:16:15.8159738+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\success.wav</Source>
+      <Name>Sounds\success</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\success.xnb</Output>
+      <Time>2014-04-21T11:16:15.818974+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\failure.wav</Source>
+      <Name>Sounds\failure</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\failure.xnb</Output>
+      <Time>2014-04-21T11:22:25.1901008+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\doorOpen.wav</Source>
+      <Name>Sounds\doorOpen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\doorOpen.xnb</Output>
+      <Time>2014-04-21T11:30:31.6539249+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gate.wav</Source>
+      <Name>Sounds\gate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gate.xnb</Output>
+      <Time>2014-04-21T11:52:42.379038+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameEndSuccess.wav</Source>
+      <Name>Sounds\gameEndSuccess</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameEndSuccess.xnb</Output>
+      <Time>2014-04-21T13:08:46.3430819+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\alarmClock.wav</Source>
+      <Name>Sounds\alarmClock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\alarmClock.xnb</Output>
+      <Time>2014-04-21T15:20:00.9216846+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\grillMovement.wav</Source>
+      <Name>Sounds\grillMovement</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillMovement.xnb</Output>
+      <Time>2014-04-21T16:10:04.4484765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\sideBarMovement.wav</Source>
+      <Name>Sounds\sideBarMovement</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarMovement.xnb</Output>
+      <Time>2014-04-21T16:13:38.3647118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\sideBarHitPosition.wav</Source>
+      <Name>Sounds\sideBarHitPosition</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarHitPosition.xnb</Output>
+      <Time>2014-04-21T16:24:24.5546717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\grillHitPosition.wav</Source>
+      <Name>Sounds\grillHitPosition</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillHitPosition.xnb</Output>
+      <Time>2014-04-21T18:16:16.7682077+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{447D487B-4752-4055-8079-C9C378711E4F}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTimeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-22T12:43:24.4678869+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

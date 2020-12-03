@@ -1,0 +1,113 @@
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font14px.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Logos\logoBadMood_White.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\left_door.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\right_door.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\titleBackground.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Continue.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Highscore.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Play.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Quit.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\menuTitle.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\highscoreBackground.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.dll
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.pdb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.dll
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.pdb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.xap
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\blank.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplaySmallFont.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\gameplayBackground.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\greenLight.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\redLight.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\bottomBar.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillAnswersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillQuestionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerAnswersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerQuestionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\questionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Documents\Questions.xml
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplayLargeFont.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonMenu.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font16px.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonGameplay.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\circle.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleFailure.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleNeutral.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleSuccess.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gate.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\doorOpen.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameOver.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\success.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\failure.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\alarmClock.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameEndSuccess.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillMovement.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarMovement.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarHitPosition.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillHitPosition.xnb
+C:\Users\Davide\Desktop\QuizTime\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\clockFont.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font14px.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplayLargeFont.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\font16px.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\clockFont.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Fonts\GameplaySmallFont.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Logos\logoBadMood_White.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\titleBackground.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Continue.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Highscore.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Play.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\titleButton_Quit.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\menuTitle.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\highscoreBackground.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\blank.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Backgrounds\gameplayBackground.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\bottomBar.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonMenu.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonGameplay.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\circle.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleFailure.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleNeutral.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answerCircleSuccess.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\greenLight.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\redLight.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\left_door.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\GameScreens\right_door.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\answersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillAnswersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\grillQuestionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerAnswersBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\innerQuestionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Textures\Gameplay\questionBlock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameOver.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\success.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\failure.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\doorOpen.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gate.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\gameEndSuccess.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\alarmClock.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillMovement.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarMovement.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\sideBarHitPosition.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Sounds\grillHitPosition.xnb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\Content\Documents\Questions.xml
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.dll
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.pdb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.dll
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\QuizTime.pdb
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\bin\Windows Phone\Debug\QuizTime.xap
+C:\Users\Davide\Desktop\QuizTime - 7.1\QuizTime\QuizTime\obj\Windows Phone\Debug\XapCacheFile.xml

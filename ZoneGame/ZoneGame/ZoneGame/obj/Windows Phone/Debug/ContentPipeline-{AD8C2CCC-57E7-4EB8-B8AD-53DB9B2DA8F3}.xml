@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2014-04-03T15:54:29.8524721+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font14px.spritefont</Source>
+      <Name>Fonts\font14px</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Fonts\font14px.xnb</Output>
+      <Time>2014-04-02T16:36:39.8612411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\noticeFont.spritefont</Source>
+      <Name>Fonts\noticeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Fonts\noticeFont.xnb</Output>
+      <Time>2014-04-29T17:36:16.1772039+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\scoreGameFont.spritefont</Source>
+      <Name>Fonts\scoreGameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Fonts\scoreGameFont.xnb</Output>
+      <Time>2014-04-29T17:36:16.179204+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\portraitsFont.spritefont</Source>
+      <Name>Fonts\portraitsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Fonts\portraitsFont.xnb</Output>
+      <Time>2014-05-08T13:52:11.419847+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2014-04-01T19:48:31.7873482+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Logos\logoBadMood_White.png</Source>
+      <Name>Textures\Logos\logoBadMood_White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Logos\logoBadMood_White.xnb</Output>
+      <Time>2014-04-02T19:19:14.6989732+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\arrow.png</Source>
+      <Name>Textures\Buttons\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\arrow.xnb</Output>
+      <Time>2014-04-03T21:59:24.2200368+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\replayButton.png</Source>
+      <Name>Textures\Buttons\replayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\replayButton.xnb</Output>
+      <Time>2014-04-03T21:59:24.2340376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\bottomSideBar.png</Source>
+      <Name>Textures\GameScreens\bottomSideBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\bottomSideBar.xnb</Output>
+      <Time>2014-04-04T00:05:44.0115761+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\topSideBar.png</Source>
+      <Name>Textures\GameScreens\topSideBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\topSideBar.xnb</Output>
+      <Time>2014-04-04T00:05:44.0125761+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\prevScoreButton.png</Source>
+      <Name>Textures\Buttons\prevScoreButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\prevScoreButton.xnb</Output>
+      <Time>2014-04-05T12:56:32.1831465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\bottomScoreBar.png</Source>
+      <Name>Textures\GameScreens\bottomScoreBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\bottomScoreBar.xnb</Output>
+      <Time>2014-04-05T12:56:32.1841466+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\levelScoreBar.png</Source>
+      <Name>Textures\GameScreens\levelScoreBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\levelScoreBar.xnb</Output>
+      <Time>2014-04-05T12:56:32.1851467+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\nextScoreButton.png</Source>
+      <Name>Textures\Buttons\nextScoreButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\nextScoreButton.xnb</Output>
+      <Time>2014-04-05T12:56:32.1861467+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\topScoreBar.png</Source>
+      <Name>Textures\GameScreens\topScoreBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\topScoreBar.xnb</Output>
+      <Time>2014-04-06T00:33:22.2557223+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\titleScreen.png</Source>
+      <Name>Textures\Backgrounds\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Backgrounds\titleScreen.xnb</Output>
+      <Time>2014-04-08T16:04:21.8745583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\bullet.png</Source>
+      <Name>Textures\Objects\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\bullet.xnb</Output>
+      <Time>2014-04-29T17:37:29.3533893+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\spaceShip.png</Source>
+      <Name>Textures\Objects\Ambient\spaceShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\spaceShip.xnb</Output>
+      <Time>2014-04-29T17:38:44.0586622+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Engine\engineOff.png</Source>
+      <Name>Textures\Objects\Ambient\Engine\engineOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Engine\engineOff.xnb</Output>
+      <Time>2014-04-29T17:38:58.7014997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Engine\engineOn.png</Source>
+      <Name>Textures\Objects\Ambient\Engine\engineOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Engine\engineOn.xnb</Output>
+      <Time>2014-04-29T17:38:58.7034998+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Enemy\enemy_attack.png</Source>
+      <Name>Textures\Objects\Enemy\enemy_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Enemy\enemy_attack.xnb</Output>
+      <Time>2014-04-29T17:39:10.4361709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Enemy\enemy_idle.png</Source>
+      <Name>Textures\Objects\Enemy\enemy_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Enemy\enemy_idle.xnb</Output>
+      <Time>2014-04-29T17:39:10.4441714+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Enemy\enemy_walk.png</Source>
+      <Name>Textures\Objects\Enemy\enemy_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Enemy\enemy_walk.xnb</Output>
+      <Time>2014-04-29T17:39:10.4681727+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\player_aim.png</Source>
+      <Name>Textures\Objects\Player\player_aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\player_aim.xnb</Output>
+      <Time>2014-04-29T17:39:21.6248109+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\player_die.png</Source>
+      <Name>Textures\Objects\Player\player_die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\player_die.xnb</Output>
+      <Time>2014-04-29T17:39:21.6258109+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\player_idle.png</Source>
+      <Name>Textures\Objects\Player\player_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\player_idle.xnb</Output>
+      <Time>2014-04-29T17:39:21.627811+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\player_walk.png</Source>
+      <Name>Textures\Objects\Player\player_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\player_walk.xnb</Output>
+      <Time>2014-04-29T17:39:21.6748137+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ScoreBar\barBlackBorder.png</Source>
+      <Name>Textures\Objects\ScoreBar\barBlackBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ScoreBar\barBlackBorder.xnb</Output>
+      <Time>2014-04-29T17:39:33.0354635+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ScoreBar\barGreen.png</Source>
+      <Name>Textures\Objects\ScoreBar\barGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ScoreBar\barGreen.xnb</Output>
+      <Time>2014-04-29T17:39:33.0524645+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ScoreBar\barRed.png</Source>
+      <Name>Textures\Objects\ScoreBar\barRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ScoreBar\barRed.xnb</Output>
+      <Time>2014-04-29T17:39:33.061465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ScoreBar\barYellow.png</Source>
+      <Name>Textures\Objects\ScoreBar\barYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ScoreBar\barYellow.xnb</Output>
+      <Time>2014-04-29T17:39:33.0744658+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Thumbstick\controlstick.png</Source>
+      <Name>Textures\Objects\Thumbstick\controlstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Thumbstick\controlstick.xnb</Output>
+      <Time>2014-04-29T17:39:41.8079653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Thumbstick\controlstickBoundary.png</Source>
+      <Name>Textures\Objects\Thumbstick\controlstickBoundary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Thumbstick\controlstickBoundary.xnb</Output>
+      <Time>2014-04-29T17:39:41.8179659+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\buttonMenu.png</Source>
+      <Name>Textures\Buttons\buttonMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\buttonMenu.xnb</Output>
+      <Time>2014-04-30T00:07:24.3963051+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\instructionBackground_eng.png</Source>
+      <Name>Textures\Backgrounds\instructionBackground_eng</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Backgrounds\instructionBackground_eng.xnb</Output>
+      <Time>2014-04-30T10:00:52.5229342+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\instructionBackground_ita.png</Source>
+      <Name>Textures\Backgrounds\instructionBackground_ita</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Backgrounds\instructionBackground_ita.xnb</Output>
+      <Time>2014-04-30T10:00:52.5229342+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Enemy\enemy_die.png</Source>
+      <Name>Textures\Objects\Enemy\enemy_die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Enemy\enemy_die.xnb</Output>
+      <Time>2014-05-05T16:06:22.6840391+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\base_trans.png</Source>
+      <Name>Textures\Objects\Player\base_trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\base_trans.xnb</Output>
+      <Time>2014-05-07T08:06:49.5203882+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Player\arrow_trans.png</Source>
+      <Name>Textures\Objects\Player\arrow_trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Player\arrow_trans.xnb</Output>
+      <Time>2014-05-07T12:28:11.1831983+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ObjectiveButtons\objectiveButtonOn.png</Source>
+      <Name>Textures\Objects\ObjectiveButtons\objectiveButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ObjectiveButtons\objectiveButtonOn.xnb</Output>
+      <Time>2014-05-07T13:59:53.4169081+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\ObjectiveButtons\objectiveButtonOff.png</Source>
+      <Name>Textures\Objects\ObjectiveButtons\objectiveButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\ObjectiveButtons\objectiveButtonOff.xnb</Output>
+      <Time>2014-05-07T14:53:54.7647544+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameScreens\textBox.png</Source>
+      <Name>Textures\GameScreens\textBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\GameScreens\textBox.xnb</Output>
+      <Time>2014-05-08T13:50:19.2724542+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Portraits\pilot.png</Source>
+      <Name>Textures\Objects\Portraits\pilot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Portraits\pilot.xnb</Output>
+      <Time>2014-05-08T13:50:46.494502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Buttons\arrowBox.png</Source>
+      <Name>Textures\Buttons\arrowBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Buttons\arrowBox.xnb</Output>
+      <Time>2014-05-09T19:40:06.0470313+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Forest\forest_bush.png</Source>
+      <Name>Textures\Objects\Ambient\Forest\forest_bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Forest\forest_bush.xnb</Output>
+      <Time>2014-05-12T16:34:37.2344702+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Forest\forest_tree.png</Source>
+      <Name>Textures\Objects\Ambient\Forest\forest_tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Forest\forest_tree.xnb</Output>
+      <Time>2014-05-12T16:34:37.2544713+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Forest\forest_grass.png</Source>
+      <Name>Textures\Objects\Ambient\Forest\forest_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Forest\forest_grass.xnb</Output>
+      <Time>2014-05-12T17:27:06.9286224+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Steppe\steppe_bush.png</Source>
+      <Name>Textures\Objects\Ambient\Steppe\steppe_bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Steppe\steppe_bush.xnb</Output>
+      <Time>2014-05-12T18:50:59.4924686+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Steppe\steppe_grass.png</Source>
+      <Name>Textures\Objects\Ambient\Steppe\steppe_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Steppe\steppe_grass.xnb</Output>
+      <Time>2014-05-12T18:50:59.4934686+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Steppe\steppe_tree.png</Source>
+      <Name>Textures\Objects\Ambient\Steppe\steppe_tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Steppe\steppe_tree.xnb</Output>
+      <Time>2014-05-12T18:52:50.71283+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Desert\desert_bush.png</Source>
+      <Name>Textures\Objects\Ambient\Desert\desert_bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Desert\desert_bush.xnb</Output>
+      <Time>2014-05-12T19:11:51.4140744+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Desert\desert_grass.png</Source>
+      <Name>Textures\Objects\Ambient\Desert\desert_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Desert\desert_grass.xnb</Output>
+      <Time>2014-05-12T19:11:51.4160745+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Desert\desert_tree.png</Source>
+      <Name>Textures\Objects\Ambient\Desert\desert_tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Desert\desert_tree.xnb</Output>
+      <Time>2014-05-12T19:11:51.4180746+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Snow\snow_bush.png</Source>
+      <Name>Textures\Objects\Ambient\Snow\snow_bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Snow\snow_bush.xnb</Output>
+      <Time>2014-05-13T14:48:05.474413+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Snow\snow_tree.png</Source>
+      <Name>Textures\Objects\Ambient\Snow\snow_tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Snow\snow_tree.xnb</Output>
+      <Time>2014-05-13T14:48:05.4794133+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Objects\Ambient\Snow\snow_grass.png</Source>
+      <Name>Textures\Objects\Ambient\Snow\snow_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Textures\Objects\Ambient\Snow\snow_grass.xnb</Output>
+      <Time>2014-05-13T17:19:21.8865541+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enemyAttack.wav</Source>
+      <Name>Sounds\enemyAttack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\enemyAttack.xnb</Output>
+      <Time>2014-04-30T11:58:31.6631277+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enemyDead.wav</Source>
+      <Name>Sounds\enemyDead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\enemyDead.xnb</Output>
+      <Time>2014-04-30T11:58:31.6651278+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameplayMusic.wav</Source>
+      <Name>Sounds\gameplayMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\gameplayMusic.xnb</Output>
+      <Extra>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\gameplayMusic.wma</Extra>
+      <Time>2014-04-30T11:58:31.9331431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameplayMusic_2.wav</Source>
+      <Name>Sounds\gameplayMusic_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\gameplayMusic_2.xnb</Output>
+      <Extra>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\gameplayMusic_2.wma</Extra>
+      <Time>2014-04-30T11:58:32.0381491+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\introSound.wav</Source>
+      <Name>Sounds\introSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\introSound.xnb</Output>
+      <Time>2014-04-30T11:58:32.0431494+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\mainMenuMusic.wav</Source>
+      <Name>Sounds\mainMenuMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\mainMenuMusic.xnb</Output>
+      <Extra>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\mainMenuMusic.wma</Extra>
+      <Time>2014-04-30T11:58:32.05415+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\shoot.wav</Source>
+      <Name>Sounds\shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\shoot.xnb</Output>
+      <Time>2014-04-30T11:58:32.0571502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bulletAmbientCollision.wav</Source>
+      <Name>Sounds\bulletAmbientCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\Sounds\bulletAmbientCollision.xnb</Output>
+      <Time>2014-04-30T12:10:24.6389076+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AD8C2CCC-57E7-4EB8-B8AD-53DB9B2DA8F3}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-22T12:43:24.4678869+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

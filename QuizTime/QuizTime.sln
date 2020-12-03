@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTime", "QuizTime\QuizTime\QuizTime.csproj", "{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "QuizTimeContent", "QuizTime\QuizTimeContent\QuizTimeContent.contentproj", "{447D487B-4752-4055-8079-C9C378711E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{DD5CFE30-4A35-4996-A6CF-DD893CE87F6D}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{447D487B-4752-4055-8079-C9C378711E4F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{447D487B-4752-4055-8079-C9C378711E4F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{9F8723E7-34D5-4D9D-80BF-C17E22BE2919}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZoneGame</RootNamespace>
+    <AssemblyName>ZoneGame</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>87934b76-809f-4ee3-8fac-2407faef22e7</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <WPTombstoneEnabled>false</WPTombstoneEnabled>
+    <XapFilename>$(AssemblyName).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate>Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage>Background.png</TileImage>
+    <TileTitle>ZoneGame</TileTitle>
+    <SupportedCultures>
+    </SupportedCultures>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>PhoneGameThumb.png</Thumbnail>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="system.drawing">
+      <HintPath>..\..\..\..\Desktop\system.drawing.dll\system.drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actors\Alien.cs" />
+    <Compile Include="Animation\AnimatingSprite.cs" />
+    <Compile Include="Animation\Animation.cs" />
+    <Compile Include="GameObjects\Arrow.cs" />
+    <Compile Include="Behaviors\AlignBehavior.cs" />
+    <Compile Include="Behaviors\AttackBehavior.cs" />
+    <Compile Include="Behaviors\Behavior.cs" />
+    <Compile Include="Behaviors\Behaviors.cs" />
+    <Compile Include="Actors\Actor.cs" />
+    <Compile Include="Behaviors\CohesionBehavior.cs" />
+    <Compile Include="Behaviors\HuntBehavior.cs" />
+    <Compile Include="Behaviors\SeparationBehavior.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="GameObjects\Bush.cs" />
+    <Compile Include="GameObjects\Grass.cs" />
+    <Compile Include="GameObjects\Portraits\TextBox.cs" />
+    <Compile Include="GameObjects\SwitchComponent.cs" />
+    <Compile Include="GameObjects\World.cs" />
+    <Compile Include="information.cs" />
+    <Compile Include="GameObjects\Bullet.cs" />
+    <Compile Include="GameObjects\BulletManager.cs" />
+    <Compile Include="GameObjects\Characters\MonsterCharacter.cs" />
+    <Compile Include="GameObjects\Characters\RiflemanCharacter.cs" />
+    <Compile Include="GameObjects\Characters\StandardCharacter.cs" />
+    <Compile Include="GameObjects\AlienManager.cs" />
+    <Compile Include="GameObjects\Engine.cs" />
+    <Compile Include="GameObjects\EngineManager.cs" />
+    <Compile Include="GameObjects\BaseComponent\InanimateGameComponent.cs" />
+    <Compile Include="GameObjects\BaseComponent\InGameComponent.cs" />
+    <Compile Include="Actors\Player.cs" />
+    <Compile Include="GameObjects\ScoreBar.cs" />
+    <Compile Include="GameObjects\SpaceShip.cs" />
+    <Compile Include="GameObjects\ThumbstickComponent.cs" />
+    <Compile Include="GameObjects\Tree.cs" />
+    <Compile Include="Interfaces\ICollision.cs" />
+    <Compile Include="Interfaces\IComponent.cs" />
+    <Compile Include="Interfaces\ISampleComponent.cs" />
+    <Compile Include="Interfaces\ISelectable.cs" />
+    <Compile Include="MenuComponents\Paragraph.cs" />
+    <Compile Include="MenuComponents\TypeWriterParagraph.cs" />
+    <Compile Include="MenuScreens\MenuScreen.cs" />
+    <Compile Include="MenuScreens\BasicMenu.cs" />
+    <Compile Include="Misc\AIParameters.cs" />
+    <Compile Include="Misc\AudioManager.cs" />
+    <Compile Include="Misc\CardinalDirection.cs" />
+    <Compile Include="Misc\MemoryStateManager.cs" />
+    <Compile Include="Misc\Padding.cs" />
+    <Compile Include="Misc\SettingsManager.cs" />
+    <Compile Include="Misc\VirtualThumbsticks.cs" />
+    <Compile Include="GameObjects\ObjectiveFinder.cs" />
+    <Compile Include="Readers\Reader.cs" />
+    <Compile Include="MenuComponents\Component.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MenuComponents\Image.cs" />
+    <Compile Include="MenuComponents\ImageSelectable.cs" />
+    <Compile Include="MenuComponents\Selectable.cs" />
+    <Compile Include="MenuComponents\Text.cs" />
+    <Compile Include="MenuComponents\TextButton.cs" />
+    <Compile Include="MenuComponents\TextSelectable.cs" />
+    <Compile Include="ScreenManager\GameScreen.cs" />
+    <Compile Include="ScreenManager\InputState.cs" />
+    <Compile Include="ScreenManager\ScreenManager.cs" />
+    <Compile Include="Screens\BackgroundScreen.cs" />
+    <Compile Include="Screens\GameplayScreen.cs" />
+    <Compile Include="Screens\HighScoreScreen.cs" />
+    <Compile Include="Screens\IntroductionScreen.cs" />
+    <Compile Include="Screens\LoadingScreen.cs" />
+    <Compile Include="Screens\MainMenuScreen.cs" />
+    <Compile Include="Screens\OptionsScreen.cs" />
+    <Compile Include="Screens\CreditsScreen.cs" />
+    <Compile Include="Screens\PauseScreen.cs" />
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZoneGameContent\ZoneGameContent.contentproj">
+      <Name>ZoneGameContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\Davide\Programmazione\ZoneGame\ZoneGame\ZoneGameContent\obj\Windows Phone\Debug\ZoneGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\ZoneGame\ZoneGame\ZoneGameContent\obj\Windows Phone\Debug\ZoneGameContent.contentprojResolveAssemblyReference.cache

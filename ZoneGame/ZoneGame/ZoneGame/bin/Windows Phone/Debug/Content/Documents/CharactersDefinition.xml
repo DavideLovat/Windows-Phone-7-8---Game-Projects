@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Characters>
+  <Character id="player">
+    <Animations>
+      <Animation character="standard" state="idle" path="Textures/Objects/Player/player_idle"
+        width="78" height="78" framesPerRow ="6" interval="166">
+      </Animation>
+      <Animation character="standard" state="walk" path="Textures/Objects/Player/player_walk"
+        width="78" height="78" framesPerRow ="6" interval="166">
+      </Animation>      
+      <Animation character="standard" state="die" path="Textures/Objects/Player/player_die"
+      width="78" height="78" framesPerRow ="6" interval="166">
+      </Animation>
+      <Animation character="rifleman" state="aim" path="Textures/Objects/Player/player_aim"
+      width="78" height="78" framesPerRow ="9" interval="166">
+      </Animation>
+    </Animations>
+  </Character>
+  <Character id="enemy">
+    <Animations>
+      <Animation character="standard" state="idle" path="Textures/Objects/Enemy/enemy_idle"
+        width="78" height="78" framesPerRow ="6" interval="166">
+      </Animation>
+      <Animation character="standard" state="walk" path="Textures/Objects/Enemy/enemy_walk"
+        width="78" height="78" framesPerRow ="6" interval="166">
+      </Animation>
+      <Animation character="standard" state="die" path="Textures/Objects/Enemy/enemy_die"
+      width="78" height="78" framesPerRow ="4" interval="166">
+      </Animation>
+      <Animation character="monster" state="attack" path="Textures/Objects/Enemy/enemy_attack"
+      width="78" height="78" framesPerRow ="4" interval="166">
+      </Animation>
+    </Animations>
+  </Character>
+</Characters>
+
+

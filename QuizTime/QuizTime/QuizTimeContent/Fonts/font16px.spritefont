@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Questo file contiene una descrizione xml di un tipo di carattere e verrà letto dalla pipeline contenuti di XNA
+Framework. Seguire i commenti per personalizzare l'aspetto
+del tipo di carattere nel gioco e per modificare i caratteri disponibili per
+il disegno.
+-->
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+
+    <!--
+    Modificare questa stringa per cambiare il tipo di carattere che verrà importato.
+    -->
+    <FontName>Moire</FontName>
+
+    <!--
+    La dimensione è un valore float espresso in punti. Modificare questo valore per cambiare
+    la dimensione del tipo di carattere.
+    -->
+    <Size>14</Size>
+
+    <!--
+    La spaziatura è un valore float espresso in pixel. Modificare questo valore per cambiare
+    la quantità di spazio tra i caratteri.
+    -->
+    <Spacing>0</Spacing>
+
+    <!--
+    UseKerning determina il layout del tipo di carattere. Se il valore è true, per il posizionamento dei caratteri
+    verranno utilizzate le informazioni per la crenatura.
+    -->
+    <UseKerning>true</UseKerning>
+
+    <!--
+    Style determina lo stile del tipo di carattere. Voci valide sono "Regular", "Bold", "Italic"
+    e "Bold, Italic". È rilevante la distinzione tra maiuscole e minuscole.
+    -->
+    <Style>Regular</Style>
+
+    <!--
+    Se si rimuove il commento da questa riga, il carattere predefinito verrà sostituito se si disegna
+    o misura testo contenente caratteri non inclusi nel tipo di carattere.
+    -->
+    <!-- <DefaultCharacter>*</DefaultCharacter> -->
+
+    <!--
+    CharacterRegions determina le lettere disponibili nel tipo di carattere.
+    I singoli caratteri, dall'inizio alla fine, vengono generati e resi disponibili per il disegno.
+    L'intervallo predefinito varia da 32 (spazio ASCII) a 126 ('~'), includendo il set di caratteri latini di base.
+    I caratteri sono ordinati in base allo standard Unicode.
+    Per ulteriori informazioni, vedere la documentazione.
+    -->
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>

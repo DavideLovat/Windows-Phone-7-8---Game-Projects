@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Scenes>
+  <Scene ID="MainMenu">
+    <Text ID="Title">
+      <ita>Main Menu</ita>
+      <eng>Main Menu</eng>
+    </Text>
+    <Text ID="Start">
+      <ita>Inizia Partita</ita>
+      <eng>Start Game</eng>
+    </Text>
+    <Text ID="Continue">
+      <ita>Continua</ita>
+      <eng>Continue</eng>
+    </Text>
+    <Text ID="Options">
+      <ita>Opzioni</ita>
+      <eng>Options</eng>
+    </Text>
+    <Text ID="Help">
+      <ita>Guida</ita>
+      <eng>Help</eng>
+    </Text>
+    <Text ID="Credits">
+      <ita>Crediti</ita>
+      <eng>Credits</eng>
+    </Text>
+    <Text ID="Highscore">
+      <ita>Punteggi</ita>
+      <eng>Highscores</eng>
+    </Text>
+  </Scene>
+  
+  <Scene ID="Options">
+    <Text ID="Title">
+      <ita>Opzioni</ita>
+      <eng>Options</eng>
+    </Text>
+    <Text ID="Sound">
+      <ita>Suono</ita>
+      <eng>Sound</eng>
+    </Text>
+    <Text ID="Language">
+      <ita>Linguaggio</ita>
+      <eng>Language</eng>
+    </Text>
+  </Scene>
+  
+  <Scene ID="Highscore">
+    <Text ID="Title">
+      <ita>Punteggi</ita>
+      <eng>Highscore</eng>
+    </Text>
+    <Text ID="Level">
+      <ita>Livello</ita>
+      <eng>Level</eng>
+    </Text>
+    <Text ID="Page">
+      <ita>pagina</ita>
+      <eng>page</eng>
+    </Text>
+    <Text ID="NoScore">
+      <ita>Nessun\n Punteggio</ita>
+      <eng>No Score</eng>
+    </Text>
+  </Scene>
+
+  <Scene ID="Loading">
+    <Text ID="Loading">
+      <ita>Caricamento</ita>
+      <eng>Loading</eng>
+    </Text>
+    <Text ID="Continue">
+      <ita>Continua</ita>
+      <eng>Continue</eng>
+    </Text>
+  </Scene>
+
+  <Scene ID="PauseMenu">
+    <Text ID="Title">
+      <ita>Menu Pausa</ita>
+      <eng>Pause Menu</eng>
+    </Text>
+    <Text ID="Continue">
+      <ita>Continua</ita>
+      <eng>Continue</eng>
+    </Text>
+    <Text ID="Restart">
+      <ita>Ricomincia</ita>
+      <eng>Restart</eng>
+    </Text>
+    <Text ID="Exit">
+      <ita>Esci</ita>
+      <eng>Exit</eng>
+    </Text>
+  </Scene>
+  
+  <Scene ID="Gameplay">
+    <Text ID="EngineScore">
+      <ita>Generatori</ita>
+      <eng>Generator</eng>
+    </Text>
+    <Text ID="Score">
+      <ita>Punteggio</ita>
+      <eng>Score</eng>
+    </Text>
+    <Text ID="Danger">
+      <ita>Pericolo</ita>
+      <eng>Danger</eng>
+    </Text>
+    <Text ID="UserWon">
+      <ita>Hai Vinto!</ita>
+      <eng>You Win</eng>
+    </Text>
+    <Text ID="NewScore">
+      <ita>Hai fatto un nuovo\n Punteggio</ita>
+      <eng>It's a new\n High-Score</eng>
+    </Text>
+    <Text ID="UserLost">
+      <ita>Hai Perso</ita>
+      <eng>You Lost</eng>
+    </Text>
+  </Scene>
+
+</Scenes>
